@@ -22,8 +22,6 @@
 
 <br>
 
-### Stats:
-
 <div> </div>
 
 <br>
