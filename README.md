@@ -22,7 +22,7 @@
 
 <br>
 
-### Score:
+
 <h1 align="center">
 
 ![Jesse's github stats](https://github-readme-stats.vercel.app/api?username=omiinaya&show_icons=true)
