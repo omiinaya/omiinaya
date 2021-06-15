@@ -26,6 +26,6 @@
 
 <h1>
 
-![Jesse's github stats](https://github-readme-stats.vercel.app/api?username=omiinaya&theme=graywhite&show_icons=true)
+![Jesse's github stats](https://github-readme-stats.vercel.app/api?username=omiinaya&count_private=true&theme=graywhite&show_icons=true)
 
 </h1>
