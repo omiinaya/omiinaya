@@ -22,6 +22,6 @@
 ### Stats: 
 <div align="left">
 
-![Omar's github stats](https://github-stats-flame.vercel.app/api?username=omiinaya&count_private=true&theme=graywhite&show_icons=true)
+![Omar's github stats](https://github-stats-flame.vercel.app/api?username=omiinaya&count_private=true&theme=midnight-purple&show_icons=true)
 
 </div>
