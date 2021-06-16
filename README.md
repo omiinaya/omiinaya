@@ -1,3 +1,10 @@
+### Stats: 
+<div align="left">
+
+![Omar's github stats](https://github-stats-flame.vercel.app/api?username=omiinaya&count_private=true&theme=midnight-purple&show_icons=true)
+
+</div>
+
 ### Languages:
 <div align="left">
 <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -17,11 +24,4 @@
 <img alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-</div>
-
-### Stats: 
-<div align="left">
-
-![Omar's github stats](https://github-stats-flame.vercel.app/api?username=omiinaya&count_private=true&theme=midnight-purple&show_icons=true)
-
 </div>
