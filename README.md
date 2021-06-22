@@ -24,4 +24,6 @@
 
 ![Omar's github stats](https://github-stats-flame.vercel.app/api?username=omiinaya&count_private=true&theme=dark&show_icons=true)
 
+![Top Langs](https://github-stats-flame.vercel.app/api/top-langs/?username=omiinaya&layout=compact&theme=dark&show_icons=true")
+
 </div>
