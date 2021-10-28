@@ -29,5 +29,5 @@
 </div>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app//api/top-langs/?username=omiinaya&layout=compact&theme=dark&show_icons=true" width="495px"></img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omiinaya&layout=compact&theme=dark&show_icons=true" width="495px"></img>
 </div>
