@@ -30,7 +30,3 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=omiinaya&count_private=true&theme=dark&show_icons=true&include_all_commits=true"></img>
 </div>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omiinaya&layout=compact&theme=dark&show_icons=true" width="495px"></img>
-</div>
