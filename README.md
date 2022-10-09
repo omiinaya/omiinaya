@@ -30,5 +30,5 @@
 
 ### Stats: 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=omiinaya&count_private=true&theme=dark&show_icons=true&include_all_commits=true"></img>
+  <img src="https://github-stats-flame.vercel.app/api?username=omiinaya&count_private=true&theme=dark&show_icons=true&include_all_commits=true"></img>
 </div>
