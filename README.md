@@ -1,3 +1,4 @@
+<!--
 ### Languages:
 <div align="left">
   <img title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -28,7 +29,9 @@
   <img title="Next" width="26px" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" />
 </div>
 
+
 ### Stats: 
+-->
 <div align="left">
   <img src="https://github-stats-flame.vercel.app/api?username=omiinaya&count_private=true&theme=dark&show_icons=true&include_all_commits=true"></img>
 </div>
