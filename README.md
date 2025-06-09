@@ -33,5 +33,6 @@
 ### Stats: 
 -->
 <div align="left">
-  <img src="https://github-stats-flame.vercel.app/api?username=omiinaya&count_private=true&theme=dark&show_icons=true&include_all_commits=true"></img>
+  <img src="https://github-stats-flame.vercel.app/api?username=omiinaya&count_private=true&theme=dark&show_icons=true&include_all_commits=true" height=192px"></img>
+  <img src="https://github-stats-flame.vercel.app/api/top-langs/?username=omiinaya&langs_count=8&layout=compact&theme=dark" height=192px></img>
 </div>
