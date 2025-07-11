@@ -33,6 +33,9 @@
 ### Stats: 
 -->
 <div align="left">
-  <img src="https://github-stats-flame.vercel.app/api?username=omiinaya&count_private=true&theme=dark&show_icons=true&include_all_commits=true" height=198px"></img>
-  <img src="https://github-stats-flame.vercel.app/api/top-langs/?username=omiinaya&langs_count=8&layout=compact&theme=dark" height=198px width=352px ></img>
+  <img src="https://github-stats-flame.vercel.app/api?username=omiinaya&count_private=true&theme=dark&show_icons=true&include_all_commits=true" height=200px"></img>
+  <img src="https://github-stats-flame.vercel.app/api/top-langs/?username=omiinaya&langs_count=8&layout=compact&theme=dark" height=195px width=350px ></img>
+  <a href="https://gitroll.io/profile/uupv0XPGvSwbc0uv4LzuUyBO7cmR2" target="_blank" height=420 width=800px>
+    <img src="https://gitroll.io/api/badges/profiles/v1/uupv0XPGvSwbc0uv4LzuUyBO7cmR2?theme=light" alt="GitRoll Profile Badge" height=420 width=800px />
+  </a>
 </div>
