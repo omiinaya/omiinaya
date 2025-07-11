@@ -33,9 +33,15 @@
 ### Stats: 
 -->
 <div align="left">
-  <a href="https://gitroll.io/profile/uupv0XPGvSwbc0uv4LzuUyBO7cmR2" target="_blank" height=420 width=800px>
-    <img src="https://gitroll.io/api/badges/profiles/v1/uupv0XPGvSwbc0uv4LzuUyBO7cmR2?theme=dark" alt="GitRoll Profile Badge" height=420 width=800px />
-  </a>
-  <img src="https://github-stats-flame.vercel.app/api?username=omiinaya&count_private=true&theme=dark&show_icons=true&include_all_commits=true" height=200px"></img>
-  <img src="https://github-stats-flame.vercel.app/api/top-langs/?username=omiinaya&langs_count=8&layout=compact&theme=dark" height=195px width=350px ></img>
+    <kbd>
+        <a href="https://gitroll.io/profile/uupv0XPGvSwbc0uv4LzuUyBO7cmR2" target="_blank" height=420 width=800px>
+            <img src="https://gitroll.io/api/badges/profiles/v1/uupv0XPGvSwbc0uv4LzuUyBO7cmR2?theme=dark" alt="GitRoll Profile Badge" height=420 width=800px />
+        </a>
+    </kbd>
+    <kbd>
+        <img src="https://github-stats-flame.vercel.app/api?username=omiinaya&count_private=true&theme=dark&show_icons=true&include_all_commits=true&hide_border=true" height=200px width=478></img>
+    </kbd>
+    <kbd>
+        <img src="https://github-stats-flame.vercel.app/api/top-langs/?username=omiinaya&langs_count=8&layout=compact&theme=dark&hide_border=true" height=210px width=308px></img>
+    </kbd>
 </div>
