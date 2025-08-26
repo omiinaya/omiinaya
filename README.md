@@ -39,9 +39,9 @@
         </a>
     </kbd>
     <kbd>
-        <img src="https://github-stats-flame.vercel.app/api?username=omiinaya&count_private=true&theme=dark&show_icons=true&include_all_commits=true&hide_border=true" height=200px width=478></img>
+        <img src="https://github-stats-flame.vercel.app/api?username=omiinaya&count_private=true&theme=dark&show_icons=true&include_all_commits=true&hide_border=true&bg_color=18181B" height=200px width=478></img>
     </kbd>
     <kbd>
-        <img src="https://github-stats-flame.vercel.app/api/top-langs/?username=omiinaya&langs_count=8&layout=compact&theme=dark&hide_border=true" height=210px width=308px></img>
+        <img src="https://github-stats-flame.vercel.app/api/top-langs/?username=omiinaya&langs_count=8&layout=compact&theme=dark&hide_border=true&bg_color=18181B" height=210px width=308px></img>
     </kbd>
 </div>
