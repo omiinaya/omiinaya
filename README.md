@@ -38,10 +38,12 @@
             <img src="https://gitroll.io/api/badges/profiles/v1/uupv0XPGvSwbc0uv4LzuUyBO7cmR2?theme=dark" alt="GitRoll Profile Badge" height=420 width=800px />
         </a>
     </kbd>
+  <!--
     <kbd>
         <img src="https://github-stats-extended.vercel.app/api?username=omiinaya&count_private=true&theme=dark&show_icons=true&include_all_commits=true&hide_border=true&bg_color=18181B" height=200px width=478></img>
     </kbd>
     <kbd>
         <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=omiinaya&langs_count=8&layout=compact&theme=dark&hide_border=true&bg_color=18181B" height=210px width=308px></img>
     </kbd>
+  -->
 </div>
